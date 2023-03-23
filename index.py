@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace YOUR_BOT_TOKEN with your actual bot token
-bot_token = '5419432479:AAHzAriBK9gszQlIXsFF9ifOzgfDQ8W9DTk'
+bot_token = '5419432479:AAH7KSrGyVuXQerNl-Uv50R-PMTV9ydjvqs'
 
 # Replace YOUR_CHANNEL_USERNAME with your channel username
 channel_username = 'UltimateTools_Deals'
